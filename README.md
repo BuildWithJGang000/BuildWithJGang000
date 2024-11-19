@@ -4,7 +4,7 @@ I'm a **Computer Science student** on a mission to **build crazy stuff** that pu
 
 
 <div style="position: absolute; top: 0; right: 0;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGR0b2VseXFvM3lmNmJ0NnF6MjA1cTJ0YmZvMm8yOTRrZjVyNDJzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="150">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3B4YXg4dHhwaTdlMGVjOWRlMG4yaWo5cm5tN2w2b2ZsNDk1ZWRyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
 
 
