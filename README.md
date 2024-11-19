@@ -3,8 +3,10 @@
 I'm a **Computer Science student** on a mission to **build crazy stuff** that pushes the boundaries of creativity and innovation. 🚀  
 
 
+<div style="position: absolute; top: 0; right: 0;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGR0b2VseXFvM3lmNmJ0NnF6MjA1cTJ0YmZvMm8yOTRrZjVyNDJzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="150">
+</div>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
 
  🛠️ What I Do:
 - 🖥️ **Frontend & Backend Wizardry**: From crafting sleek user interfaces to architecting robust backends.
